@@ -1,0 +1,10 @@
+[
+  {
+    "name": "department-service",
+    "port": 9001
+  },
+  {
+    "name": "employee-service",
+    "port": 9002
+  }
+]
